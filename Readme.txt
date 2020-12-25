@@ -10,13 +10,18 @@ CREATED ON -> 25-12-2020
 -------------------------------------------------------------------------------
 ABOUT THE PROJECT
 
+This project is a simple pythonic implementation of a Marks Recording System
+where the user will enter his/her details and his/her marks. The details given will be saved
+as a text file in a directory. The user also has the option to view the pie chart of his/her
+marks.
+
 THE PROJECT CONTAINS TWO FILES AND TWO DIRECTORIES
 
 MARKS RECORDING SYSTEM
-    |- Students   [DIRECTORY | AUTO-GENERATED]
+    |- Students   [DIRECTORY | AUTOMATICALLY GENERATED WHEN YOU WILL RUN THE PROJECT FOR THE FIRST TIME]
     |- Marks.py   [Python File]
     |- RunMarksRecorder.py    [Python File]
-    |- __Pycache__   [DIRECTORY | CACHE DATA CREATED BY THE PYTHON INTERPRETER]
+    |- __Pycache__   [DIRECTORY | CACHE DATA AUTOMATICALLY CREATED BY THE PYTHON INTERPRETER]
     |- Readme.txt    [TEXT DOCUMENT | README FILE]
 
 
