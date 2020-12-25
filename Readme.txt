@@ -13,10 +13,11 @@ ABOUT THE PROJECT
 THE PROJECT CONTAINS TWO FILES AND TWO DIRECTORIES
 
 MARKS RECORDING SYSTEM
-    |- Students   [DIRECTORY]
+    |- Students   [DIRECTORY | AUTO-GENERATED]
     |- Marks.py   [Python File]
-    |- RunMarksRecorder.exe    [Executable File]
+    |- RunMarksRecorder.py    [Python File]
     |- __Pycache__   [DIRECTORY | CACHE DATA CREATED BY THE PYTHON INTERPRETER]
+    |- Readme.txt    [TEXT DOCUMENT | README FILE]
 
 
 The Students Directory is the place where the Mark Details of the Students
