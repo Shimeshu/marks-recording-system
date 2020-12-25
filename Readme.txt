@@ -34,6 +34,9 @@ compiled this file so that people can view the source code
 The RunMarksRecorder.py is the place from where you'll run the marks recording
 system.
 
+[Note -> Make Sure that you have installed the Matplotlib via pip. Otherwise
+you will see a "ModuleNotFoundError" when you will run this file.]
+
 -------------------------------------------------------------------------------
 FINAL NOTE
 
